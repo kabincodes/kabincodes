@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kabincodes
+- 👀 I’m interested in watching movies,Machine learning & Software Engineering & Music ...
+- 🌱 I’m currently learning Bachelors in Information Technoloy...
+- 📫 you can reach me at ghimirekabin060@gmail.com...
+
+<!---
+kabincodes/kabincodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
